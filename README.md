@@ -10,7 +10,7 @@
 
 ## 2. Backend @James
 - [ ] Create API for new method
-  - [ ] Modify existing method
+  - [x] Modify existing method
   - [ ] Delete previous method
 - [ ] Write tests
 
