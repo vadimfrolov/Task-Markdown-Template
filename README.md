@@ -15,7 +15,7 @@
 - [ ] Write tests
 
 ## 3. Player and Recording changes @Jane
-- [] Add new recording mode
+- [ ] Add new recording mode
 
 ## 4. Tests @Jane
 - [ ] Write tests
