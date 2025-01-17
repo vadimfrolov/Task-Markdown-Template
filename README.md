@@ -1,22 +1,21 @@
-# Super big task ~ > 5 days 
+# Super big task ~ > 7 days 
 
 ## AI Generated dialog with 2 AI avatars
 
 ## 1. UI in Editor
-- [ ] Step
-  - [ ] Step 1.1
-  - [ ] Step 1.2
-  - [ ] Step 1.3
+- [ ] Create new section with new functionality
+  - [ ] Modify timeline
+  - [ ] Check edge cases with composer
+  - [ ] Add more responsibly tricks to look better on small screen
 
 ## 2. Backend
-- [ ] Step
-  - [ ] Step 1.1
-  - [ ] Step 2.1
-- [ ] Create a timeline for completion
-- [ ] Identify potential challenges
+- [ ] Create API for new method
+  - [ ] Modify existing method
+  - [ ] Delete previous method
+- [ ] Write tests
 
 ## 3. Player and Recording changes
-- [ ] Step
+- [ ] Add new recording mode
 
 ## 4. Tests
 - [ ] Write tests
