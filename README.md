@@ -6,7 +6,7 @@
 - [x] Create new section with new functionality
   - [x] Modify timeline
   - [x] Check edge cases with composer
-  - [ ] Add more responsibly tricks to look better on small screen
+  - [x] Add more responsibly tricks to look better on small screen
 
 ## 2. Backend @James
 - [ ] Create API for new method
