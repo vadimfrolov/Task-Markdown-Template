@@ -24,6 +24,10 @@ Example of planing task
 - [ ] Write tests
 
 
+
+---
+
+
 Delivery manager or developer can track the progress of the tasks 
 
 # Super big task ~ > 14 days 
