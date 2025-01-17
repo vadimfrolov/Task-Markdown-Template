@@ -31,7 +31,7 @@ Breaking a big task into smaller steps and creating a plan means organizing it i
 ---
 
 #### #How Long It Can Take?  
-- Planning and splitting a large task (~14 days) takes **1-4 hours**.  
+- Planning and splitting a large task (~14 days) takes **1-2 hours**.  
 - A little time spent planning avoids wasted effort and stress later.  
 
 ---
