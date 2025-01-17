@@ -2,7 +2,7 @@
 
 ## AI Generated dialog with 2 AI avatars
 
-## 1. UI
+## 1. UI in Editor
 - [ ] Step
   - [ ] Step 1.1
   - [ ] Step 1.2
