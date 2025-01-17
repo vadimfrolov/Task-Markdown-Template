@@ -1,4 +1,4 @@
-# Super big task ~ > 7 days 
+# Super big task ~ > 14 days 
 
 ## AI Generated dialog with 2 AI avatars
 
