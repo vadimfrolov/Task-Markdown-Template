@@ -1,27 +1,22 @@
-# Super big task
+# Super big task ~ > 5 days 
 
 ## AI Generated dialog with 2 AI avatars
 
 ## 1. UI
-- [ ] Break down the task into smaller steps
-  - [ ] Step 1
-  - [ ] Step 2
-  - [ ] Step 3
-- [ ] Create a timeline for completion
-- [ ] Identify potential challenges
+- [ ] Step
+  - [ ] Step 1.1
+  - [ ] Step 1.2
+  - [ ] Step 1.3
 
 ## 2. Backend
-- [ ] Break down the task into smaller steps
-  - [ ] Step 1
-  - [ ] Step 2
-  - [ ] Step 3
+- [ ] Step
+  - [ ] Step 1.1
+  - [ ] Step 2.1
 - [ ] Create a timeline for completion
 - [ ] Identify potential challenges
 
-## 3. Player and recording changes
-- [ ] Break down the task into smaller steps
-  - [ ] Step 1
-  - [ ] Step 2
-  - [ ] Step 3
-- [ ] Create a timeline for completion
-- [ ] Identify potential challenges
+## 3. Player and Recording changes
+- [ ] Step
+
+## 4. Tests
+- [ ] Write tests
